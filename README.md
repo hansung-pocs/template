@@ -5,3 +5,4 @@ Practice create issue &amp; pull request
 
 git 연습
 - issue 생성
+- pull request 생성
